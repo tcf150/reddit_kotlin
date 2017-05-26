@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    
+    <dimen name="fibonacci_1">2dp</dimen>
+    <dimen name="fibonacci_2">4dp</dimen>
+    <dimen name="fibonacci_5">10dp</dimen>
+    <dimen name="fibonacci_8">16dp</dimen>
+    <dimen name="fibonacci_13">26dp</dimen>
+</resources>
