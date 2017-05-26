@@ -10,7 +10,7 @@ import com.zachary.reddit_kotlin.service.StatusCode
 
 class Status : BaseModel() {
     var statusCode: Int = 0
-    var statusDesc: String? = null
+    var statusDesc: String = ""
 
     val isSuccess: Boolean
         get() = statusCode == StatusCode.SUCCESS

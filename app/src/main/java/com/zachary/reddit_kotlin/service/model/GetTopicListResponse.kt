@@ -8,5 +8,5 @@ import com.zachary.reddit_kotlin.model.Topic
  */
 
 class GetTopicListResponse : BaseResponse() {
-    var topicList: List<Topic>? = null
+    var topicList: List<Topic> = ArrayList<Topic>()
 }

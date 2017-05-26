@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/tongcheefei/reddit_kotlin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=74d843e53bf011fde7cfc608e487c72d25eece15
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

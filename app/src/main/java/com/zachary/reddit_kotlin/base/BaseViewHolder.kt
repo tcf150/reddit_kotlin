@@ -10,7 +10,7 @@ import android.view.View
 open class BaseViewHolder<T : BaseModel>(itemView: View) : RecyclerView.ViewHolder(itemView) {
     protected var model: T? = null
 
-    fun bindData(model: T) {
+    open fun bindData(model: T) {
         this.model = model
     }
 }

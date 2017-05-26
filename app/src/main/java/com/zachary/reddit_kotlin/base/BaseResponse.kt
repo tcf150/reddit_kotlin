@@ -8,5 +8,5 @@ import com.zachary.reddit_kotlin.model.Status
  */
 
 open class BaseResponse {
-    var status: Status? = null
+    var status: Status = Status()
 }

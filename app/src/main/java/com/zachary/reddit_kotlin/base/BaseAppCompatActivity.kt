@@ -1,4 +1,4 @@
-package com.zachary.reddit_mvvm.base
+package com.zachary.reddit_kotlin.base
 
 import android.arch.lifecycle.Lifecycle
 import android.arch.lifecycle.LifecycleActivity
